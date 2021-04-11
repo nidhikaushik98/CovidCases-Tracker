@@ -3,7 +3,7 @@ Track the daily overall cases in India along with Top 5 states including death r
 Platform used : Uipath
 This is done using State Machine
 About Project :--
-Open the website - "https://www.covid19india.org/"
+Open the website - "https://www.covid19india.org/".
 Scrape the datatable of all cities and overall data. 
 store them in separate excel file.
 Extract top 5 confirmed cases city.
